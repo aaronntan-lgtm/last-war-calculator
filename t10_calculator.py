@@ -5,11 +5,7 @@ def render_t10_calculator():
 
     
 
-    # --- Page Setup ---
 
-    st.set_page_config(page_title="🪖 T10 Grind", layout="centered")
-
-    
 
     # --- Apply Green Border ONLY to Language Dropdown ---
 
