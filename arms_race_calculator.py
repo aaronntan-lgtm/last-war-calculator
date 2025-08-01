@@ -265,8 +265,6 @@ def render_arms_race_calculator():
 
     
 
-    st.set_page_config(page_title="VS Duel Calculator", layout="centered")
-
     
 
     tab1, tab2 = st.tabs([t["research_tab"][lang_code], t["duel_tab"][lang_code]])
