@@ -7,7 +7,7 @@ def render_t10_calculator():
 
     # --- Page Setup ---
 
-    st.set_page_config(page_title="🪖 T10 Grind", layout="Wide")
+    st.set_page_config(page_title="🪖 T10 Grind", layout="Centered")
 
     
 
